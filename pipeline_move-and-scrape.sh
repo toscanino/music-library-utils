@@ -1,0 +1,12 @@
+mv -v ~/Downloads/*.mp3 ~/Music/raw/ || true;
+rename -vS 'www.my-free-mp3.net' '' *;
+rename -vS '[Video]' '' *;
+rename -vS '.com' '' *;
+rename -vS 'www.' '' *;
+rename -vS '-free-dl' '' *;
+rename -vS '  ' ' ' *;
+rename -vS ' .mp3' '.mp3' *;
+rename -vS ' .mp3' '.mp3' *;
+rename -vS ' .mp3' '.mp3' *;
+rename -vS ' .mp3' '.mp3' *;
+ls *"(1).mp3";
