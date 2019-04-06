@@ -1,3 +1,4 @@
 - Rekordbox
 - Metadatics (apple app)
 - MusicBrainz Picard
+- keyfinder http://www.ibrahimshaath.co.uk/keyfinder/
