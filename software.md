@@ -1,0 +1,3 @@
+- Rekordbox
+- Metadatics (apple app)
+- MusicBrainz Picard
