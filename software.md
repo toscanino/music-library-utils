@@ -1,4 +1,0 @@
-- Rekordbox ($100 license)
-- Metadatics (Appstore application - $15)
-- MusicBrainz Picard (online, Free)
-- keyfinder http://www.ibrahimshaath.co.uk/keyfinder/ (free)
