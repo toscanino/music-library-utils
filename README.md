@@ -7,10 +7,10 @@ Minimalist code & tricks to better manage your DJ library.
 
 ### Ingestion steps
 - Download tracks in `/downloads`
-- Run `pipeline.zh` in `/raw` sub-folder of `/music`
-- Metadatics: clean-up filenames & tags
+- Run `pipe.sh` in `/raw` sub-folder of `/music`
+- Metadatics: open raw folder, clean-up filenames & tags
 - Rekordbox: re-import the `/raw` sub-folder as a playlist 
-- Add tags to each track
+- Add tags to each track, include "Fresh" tag in "Played At" category- don't dispatch in playlises yet as this would be lost
 - Tracks are ready: move `raw` tracks to `music`
 - Rekordbox: re-import  `music` folder as playlist
 
