@@ -10,12 +10,12 @@ Minimalist code & tricks to better manage your DJ library.
 - Run `pipe.sh` in `/raw` sub-folder of `/music`
 - Metadatics: open raw folder, clean-up filenames & tags
 - Rekordbox: re-import the `/raw` sub-folder as a playlist 
-- Add tags to each track, include "Fresh" tag in "Played At" category- don't dispatch in playlises yet as this would be lost
+- Add tags to each track, include "Fresh" tag in "Played At" category - don't dispatch in playlists yet as this would be lost
 - Tracks are ready: move `raw` tracks to `music`
 - Rekordbox: re-import  `music` folder as playlist
 
 ### Tags 
-- `Genre`: sub-categories based on your prefered styles and sensibilities
+- `Genre`: sub-categories based on your prefered styles
 - `Component`: singular sound element  
 - `Situation`: proper context
 - `Played At`: personal historical record
